@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Container } from "react-bootstrap";
 import { Form } from "react-bootstrap";
 import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "./HearderBlog.css";
+import "./FormBlog.css";
 import api from "../services/api.js";
 export default function HearderBlog() {
   const [email, setEmail] = useState("");
