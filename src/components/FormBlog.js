@@ -32,7 +32,7 @@ export default function HearderBlog() {
             />
           </div>
 
-          <h1 className="h3 mb-3 font-weight-normal">Please sign in</h1>
+          <h1 className="h3 mb-3 font-weight-normal">please register</h1>
 
           <div className="email-control">
             <label htmlFor="name" className="sr-only">
@@ -86,7 +86,7 @@ export default function HearderBlog() {
             </label>
           </div>
           <button className="btn btn-lg btn-primary btn-block" type="submit">
-            Sign in
+            register
           </button>
         </Form>
       </div>
